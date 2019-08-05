@@ -1,2 +1,3 @@
 num = 10
-num = 50
+num = 5
+num = 0
